@@ -1,5 +1,5 @@
 REM # build
-vuepress build
+REM vuepress build
 
 REM # navigate into the build output directory
 cd .vuepress
