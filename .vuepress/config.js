@@ -22,7 +22,7 @@ module.exports = {
                 text: 'Projects',
                 items: [
                     { text: 'Index', link: '/projects/index' },
-                    { text: 'Intel Cup', link: '/projects/intel-cup' }
+                    { text: 'Env System', link: '/projects/env-system' }
                 ]
             },
             { text: 'Blog', link: 'https://billzhonggz.com/blog'},
