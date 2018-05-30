@@ -29,7 +29,7 @@ In this version, some "bad" designs were applied in today's point of view, made 
 
 ### Compatibility Nightmare
 
-In this contest, we were required to use the develop boards provided by Intel, which are Genuino 101 and Minnowboard Turbot. Since Intel claimed the Genuino 101 compact with the Arduino standard library, we decided to migrate a open source flight controlling software to it. However, according to the teammate, it was impossible to migrate the project with only Arduino standard library, it was not enough to power the software.
+In this contest, we were required to use the develop boards provided by Intel, which are [Genuino 101](https://ark.intel.com/products/92346/Genuino-101) and [Minnowboard Turbot](https://minnowboard.org/minnowboard-turbot/). Since Intel claimed the Genuino 101 compact with the Arduino standard library, we decided to migrate a open source flight controlling software to it. However, according to the teammate, it was impossible to migrate the project with only Arduino standard library, it was not enough to power the software.
 
 Problems also appeared at data sending procedure. As Internet of Things developer, *serial port* is the most common connection method between controllers and sensors. But at that moment, we had a limit choices: the only programming language we familiar with is Java, but the serial port library in Java was out of maintenance for a long time and we need to use JDBC to upload data to the server.
 
@@ -38,6 +38,8 @@ At the last moment, we used a serial port reading software which can save the da
 ### Frameworks on Server Side
 
 The server side program was written in PHP cooperate by me, [Covey Liu](https://github.com/Curton), [Jason Yang](https://github.com/JiayuYANG), and [Alicia Wang](https://github.com/JEUDominic). The live demo (but it has some database errors) can be accessed [here](https://ws1.billzhonggz.com/php/project/) (use "admin" as both username and password).
+
+We applied [CodeIgniter](https://www.codeigniter.com/) as the framework of this system. CI is a framework highly follows MVC design pattern. People always say that using framework can improve efficiency of development. However, we had difficulties much more than benefits when applying this framework at that moment. The cons of applying framework is learning cost. I think for those experienced professional developers, they can easily figure out the design philosophy of a framework. But for us, it might by too difficult, especially we don't know the phase "software engineering".
 
 ## Improvement: Data Uploading
 
