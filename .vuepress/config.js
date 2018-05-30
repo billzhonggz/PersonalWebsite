@@ -4,8 +4,8 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'About', link: 'about' },
-            { text: 'Résumé', link: 'cv'},
+            { text: 'About', link: '/about/' },
+            { text: 'Résumé', link: '/cv/'},
             { text: 'Teaching', link: '/teaching/'},
             { text: 'Projects', link: '/projects/'},
             { text: 'Blog', link: 'https://billzhonggz.com/blog'},
