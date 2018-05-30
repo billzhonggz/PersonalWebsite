@@ -6,8 +6,25 @@ module.exports = {
             { text: 'Home', link: '/' },
             { text: 'About', link: '/about/' },
             { text: 'Résumé', link: '/cv/'},
-            { text: 'Teaching', link: '/teaching/'},
-            { text: 'Projects', link: '/projects/'},
+            { 
+                text: 'Teaching',
+                items: [
+                    { text: 'Timetable', link: '/teaching/timetable' },
+                    {
+                        text: 'Guides',
+                        items: [
+                            { text: 'Configure Hadoop', link: '/teaching/guides/hadoop'}
+                        ]
+                    }
+                ]
+            },
+            {
+                text: 'Projects',
+                items: [
+                    { text: 'Index', link: '/projects/index' },
+                    { text: 'Intel Cup', link: '/projects/intel-cup' }
+                ]
+            },
             { text: 'Blog', link: 'https://billzhonggz.com/blog'},
             { text: 'Github', link: 'https://github.com/billzhonggz' },
         ],
