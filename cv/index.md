@@ -67,7 +67,7 @@ Updated in June 2018. You can get a PDF version [here](#).
     * The GIT Drinking Store (CLI store management software in C) [GitHub](https://github.com/JiayuYANG/SPGroupProject2.0)
 * October 2014 - July 2016
     * An Intelligent and Interactive Environment Monitoring System with Air Vehicle
-    * *This project contents multiple sub-projects, checkout the [project description](#) for details.*
+    * *This project contents multiple sub-projects, checkout the [project description](/projects/env-system.html) for details.*
 
 ## Extracurricular Positions
 * October 2016 - current
