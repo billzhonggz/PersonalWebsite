@@ -15,7 +15,7 @@ After the contest, several improvements were applied to this system. In those im
 
 ## Basic System Structure
 
-![System Structure](/env-system-structure.png)
+![System Structure](/env-system/structure.png)
 
 The system follows a database-centered structure. The onboarded devices will directly write collected data to the database, and the client side will also directly read the database.
 
@@ -27,6 +27,8 @@ This was the only version that was putted to the contest.
 
 In this version, some "bad" designs were applied in today's point of view, made the software extremely hard to understand and maintain. But anyway, it was this set of code helped us won the award.
 
+![52766898848](/env-system/showcase.jpg)
+
 ### Compatibility Nightmare
 
 In this contest, we were required to use the develop boards provided by Intel, which are [Genuino 101](https://ark.intel.com/products/92346/Genuino-101) and [Minnowboard Turbot](https://minnowboard.org/minnowboard-turbot/). Since Intel claimed the Genuino 101 compact with the Arduino standard library, we decided to migrate a open source flight controlling software to it. However, according to the teammate, it was impossible to migrate the project with only Arduino standard library, it was not enough to power the software.
@@ -35,7 +37,9 @@ Problems also appeared at data sending procedure. As Internet of Things develope
 
 At the last moment, we used a serial port reading software which can save the data in text files, then applied Java to read the text files, parse the data, then upload the data.
 
-### Frameworks on Server Side
+### "Framework" on Server Side
+
+![env-system-realtime-screenshot](/env-system/realtime-screenshot.png)
 
 The server side program was written in PHP cooperate by me, [Covey Liu](https://github.com/Curton), [Jason Yang](https://github.com/JiayuYANG), and [Alicia Wang](https://github.com/JEUDominic). The live demo (but it has some database errors) can be accessed [here](https://ws1.billzhonggz.com/php/project/) (use "admin" as both username and password).
 
@@ -43,7 +47,11 @@ We applied [CodeIgniter](https://www.codeigniter.com/) as the framework of this 
 
 ## Improvement: Data Uploading
 
+After experiencing a complex procedure of sensor data collecting and uploading, we decided to use C# instead of Java to make a data collecting and uploading software. It was reasonable because our Minnowboard Turbot ran a standard Windows 10 desktop. The source code can be found on [GitHub](https://github.com/billzhonggz/SerialPortReadWinForm).
 
+![](/env-system/csharp.png)
+
+In this case, we applied out-of-box C# serial port library to read serial port data from the sensor, then the data string would be parsed according to our instructions. After that, we use a third-party MySQL library to upload directly to the database.
 
 ## Improvement: Android Mobile App
 
