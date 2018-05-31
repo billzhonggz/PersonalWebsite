@@ -5,7 +5,7 @@ sidebarDepth: 2
 ---
 
 # Full Résumé
-Updated in June 2018. You can get a PDF version [here](#).
+Updated in June 2018.
 
 ## Personal Information
 * Full name in English: ZHONG, JUNRU
@@ -15,7 +15,7 @@ Updated in June 2018. You can get a PDF version [here](#).
 
 ## Employment
 * August 2018 - June 2019
-    * Teaching Assistant at Computer Science and Technology, BNU-HKBU United International College
+    * Teaching Assistant at Computer Science and Technology, BNU-HKBU United International College [Website](https://uic.edu.hk)
 * Feburary 2015 - June 2018
     * Student Helper (part-time) at Information Technology Service Centre, BNU-HKBU United International College
 
@@ -60,7 +60,11 @@ Updated in June 2018. You can get a PDF version [here](#).
     * Text Search Engine Base on Hadoop [GitHub](https://github.com/billzhonggz/MapReduceSearch)
     * Encrypted Internet Chatroom Base on Winsock [GitHub](https://github.com/billzhonggz/EncryptedChat)
 * April 2017
+    * Android Client Application for [Environment Monitoring System](/projects/env-system.html#improvement-android-mobile-app) | [GitHub](https://github.com/billzhonggz/EnvAircraftClient)
     * HTTP Server Base on Winsock [GitHub](https://github.com/billzhonggz/WebServer)
+* November 2016
+    * Serial Port Read & Upload for [Environment Monitoring System](/projects/env-system.html#improvement-data-uploading) | [GitHub](https://github.com/billzhonggz/SerialPortReadWinForm)
+
 * May 2016
     * Alumni Information System Base on Java Swing & MySQL
 * December 2015
@@ -71,11 +75,11 @@ Updated in June 2018. You can get a PDF version [here](#).
 
 ## Extracurricular Positions
 * October 2016 - current
-    * Core member, UIC HCC Computer Association
+    * Core member, UIC HCC Computer Association [Website](https://uichcc.com)
 * September 2015 - August 2016
     * Peer Mentor, Mentor Caring Program, UIC
 * September 2014 - October 2017
-    * Co-organizer, TEDxUIC
+    * Co-organizer, TEDxUIC [Website](http://tedxuic.com)
 * September 2014 - May 2016
     * Volunteer & minister of Mangrove Protection Project Group, United Innovation Charity Club, UIC
 

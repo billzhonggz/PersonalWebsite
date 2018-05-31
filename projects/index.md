@@ -24,10 +24,13 @@ I am doing, and have been done many projects since I got my college studentship 
     * Text Search Engine Base on Hadoop [GitHub](https://github.com/billzhonggz/MapReduceSearch)
     * Encrypted Internet Chatroom Base on Winsock [GitHub](https://github.com/billzhonggz/EncryptedChat)
 * April 2017
+    * Android Client Application for [Environment Monitoring System](env-system.html#improvement-android-mobile-app) | [GitHub](https://github.com/billzhonggz/EnvAircraftClient)
     * HTTP Server Base on Winsock [GitHub](https://github.com/billzhonggz/WebServer)
 
 ## 2016
 
+* November 2016
+    * Serial Port Read & Upload for [Environment Monitoring System](env-system.html#improvement-data-uploading) | [GitHub](https://github.com/billzhonggz/SerialPortReadWinForm)
 * May 2016
     * Alumni Information System Base on Java Swing & MySQL
 
@@ -39,4 +42,4 @@ I am doing, and have been done many projects since I got my college studentship 
 ## 2014
 
 * October 2014 - July 2016
-    * An Intelligent and Interactive Environment Monitoring System with Air Vehicle [project description](env-system.html)
+    * [An Intelligent and Interactive Environment Monitoring System with Air Vehicle](env-system.html)
