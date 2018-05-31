@@ -40,6 +40,7 @@ module.exports = {
             { text: 'Blog', link: 'https://billzhonggz.com/blog'},
             { text: 'Github', link: 'https://github.com/billzhonggz' },
         ],
-        lastUpdated: 'Last Updated'
+        lastUpdated: 'Last Updated',
+        ga: 'UA-115900587-1'
     }
 }
