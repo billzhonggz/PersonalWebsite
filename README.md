@@ -9,6 +9,6 @@ features:
     - title: Interests
       details: Computer technologies, photography, public transportations, social science, and bangumi.
     - title: This Website
-      details: This website is hosted by Coding Pages. Google Analytics is applied, some user information will be collected.
+      details: This website is hosted by GitHub Pages. Google Analytics is applied, some user information will be collected.
 footer: Powered by VuePress | Copyright © 2018 Bill, Junru Zhong | Content licensed under CC BY-NC 4.0
 ---
