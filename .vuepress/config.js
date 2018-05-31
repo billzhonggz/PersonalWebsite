@@ -4,12 +4,19 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'About', link: '/about/' },
+            {
+                text: 'About',
+                items: [
+                    { text: 'About Me', link: '/about/index' },
+                    { text: 'This Site', link: '/about/site' }
+                ]
+            },
             { text: 'Résumé', link: '/cv/'},
             { 
                 text: 'Teaching',
                 items: [
-                    { text: 'Timetable', link: '/teaching/timetable' }
+                    { text: 'Timetable', link: '/teaching/timetable' },
+                    { text: 'CPGU IT Tutorial', link: '/it-tutorial/'}
                 ]
             },
             {
@@ -23,7 +30,7 @@ module.exports = {
                         ]
                     },
                     {
-                        text: '2014',
+                        text: '2014 - 2016',
                         items: [
                             { text: 'Environment Monitoring System', link: '/projects/env-system' }
                         ]
