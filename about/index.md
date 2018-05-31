@@ -1,10 +1,10 @@
 ---
-title: About me
+title: About Me
 sidebar: auto
 sidebarDepth: 2
 ---
 
-# About me
+# About Me
 You can get my full résumé [here](/cv/).
 
 I always believe I can be someone who makes contributions to applications of advanced technologies in the real world. Why? The story should begin in 2004...

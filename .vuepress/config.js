@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Bill, Junru Zhong',
-    description: 'Personal Website 3.0 - Preview',
+    description: 'I am serious.',
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
