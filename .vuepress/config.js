@@ -9,20 +9,25 @@ module.exports = {
             { 
                 text: 'Teaching',
                 items: [
-                    { text: 'Timetable', link: '/teaching/timetable' },
-                    {
-                        text: 'Guides',
-                        items: [
-                            { text: 'Configure Hadoop', link: '/teaching/guides/hadoop'}
-                        ]
-                    }
+                    { text: 'Timetable', link: '/teaching/timetable' }
                 ]
             },
             {
                 text: 'Projects',
                 items: [
-                    { text: 'Index', link: '/projects/index' },
-                    { text: 'Env System', link: '/projects/env-system' }
+                    { text: 'Project Index', link: '/projects/index' },
+                    {
+                        text: '2017',
+                        items: [
+                            { text: 'SE Retail Management', link: '/projects/se-system' }
+                        ]
+                    },
+                    {
+                        text: '2014',
+                        items: [
+                            { text: 'Environment Monitoring System', link: '/projects/env-system' }
+                        ]
+                    }
                 ]
             },
             { text: 'Blog', link: 'https://billzhonggz.com/blog'},

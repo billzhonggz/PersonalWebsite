@@ -54,7 +54,7 @@ Updated in June 2018.
 * April 2018 - May 2018
     * Server side of Intelligent Vehicle Locator & Alarm
 * May 2017 - December 2017
-    * Retail Management System: A Case Study on Agile Development Methods [GitHub](https://github.com/billzhonggz/SE-Retail-Management-System)
+    * Retail Management System: A Case Study on Agile Development Methods [Description](/projects/se-system.html) | [GitHub](https://github.com/billzhonggz/SE-Retail-Management-System)
 * May 2017
     * Final Year Project Marking System (Software Engineering) [GitHub](https://github.com/billzhonggz/FYPMarkSystem)
     * Text Search Engine Base on Hadoop [GitHub](https://github.com/billzhonggz/MapReduceSearch)
@@ -64,7 +64,6 @@ Updated in June 2018.
     * HTTP Server Base on Winsock [GitHub](https://github.com/billzhonggz/WebServer)
 * November 2016
     * Serial Port Read & Upload for [Environment Monitoring System](/projects/env-system.html#improvement-data-uploading) | [GitHub](https://github.com/billzhonggz/SerialPortReadWinForm)
-
 * May 2016
     * Alumni Information System Base on Java Swing & MySQL
 * December 2015

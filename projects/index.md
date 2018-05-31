@@ -18,7 +18,7 @@ I am doing, and have been done many projects since I got my college studentship 
 ## 2017
 
 * May 2017 - December 2017
-    * Retail Management System: A Case Study on Agile Development Methods [GitHub](https://github.com/billzhonggz/SE-Retail-Management-System)
+    * Retail Management System: A Case Study on Agile Development Methods [Description](se-system.html) | [GitHub](https://github.com/billzhonggz/SE-Retail-Management-System)
 * May 2017
     * Final Year Project Marking System (Software Engineering) [GitHub](https://github.com/billzhonggz/FYPMarkSystem)
     * Text Search Engine Base on Hadoop [GitHub](https://github.com/billzhonggz/MapReduceSearch)
@@ -42,4 +42,4 @@ I am doing, and have been done many projects since I got my college studentship 
 ## 2014
 
 * October 2014 - July 2016
-    * [An Intelligent and Interactive Environment Monitoring System with Air Vehicle](env-system.html)
+    * An Intelligent and Interactive Environment Monitoring System with Air Vehicle [Description](env-system.html)
