@@ -11,7 +11,7 @@ I am doing, and have been done many projects since I got my college studentship 
 * Currently running
   * AI Mobile Office Application (commercial)
 * May 2018
-    * 3D Printed Motion Capturing Robot Arm
+    * 3D Printed Motion Capturing Robot Arm [Description](/projects/robot-arm.html)
 * April 2018 - May 2018
     * Server side of Intelligent Vehicle Locator & Alarm
 

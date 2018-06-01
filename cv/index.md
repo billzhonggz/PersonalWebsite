@@ -50,7 +50,7 @@ Updated in June 2018.
 * May 2018 - current
     * AI Mobile Office Application
 * May 2018
-    * 3D Printed Motion Capturing Robot Arm
+    * 3D Printed Motion Capturing Robot Arm [Description](/projects/robot-arm.html)
 * April 2018 - May 2018
     * Server side of Intelligent Vehicle Locator & Alarm
 * May 2017 - December 2017

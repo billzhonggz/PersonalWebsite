@@ -24,6 +24,12 @@ module.exports = {
                 items: [
                     { text: 'Project Index', link: '/projects/index' },
                     {
+                        text: '2018',
+                        items: [
+                            { text: 'Motion Capture Robot Arm', link: '/projects/robot-arm'}
+                        ]
+                    },
+                    {
                         text: '2017',
                         items: [
                             { text: 'SE Retail Management', link: '/projects/se-system' }
