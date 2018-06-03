@@ -35,3 +35,11 @@ It was very inconvenient to write raw HTML and the template I used was not good 
 The reason I choose VuePress is simple. It is simple, and, I have been used [Vue](https://vuejs.org/) a lot in the [SE Retail Management](/projects/se-system.html) project.
 
 So that's what you can see now.
+
+[Source of this site](https://github.com/billzhonggz/PersonalWebsite)
+
+## Licenses
+
+VuePress: MIT Licensed | Copyright © 2018-present Evan You
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Content of this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

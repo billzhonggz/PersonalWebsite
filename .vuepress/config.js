@@ -24,7 +24,7 @@ module.exports = {
                 items: [
                     { text: 'Project Index', link: '/projects/index' },
                     {
-                        text: '2017 - current',
+                        text: '2017 - present',
                         items: [
                             { text: 'Motion Capture Robot Arm', link: '/projects/robot-arm'},
                             { text: 'SE Retail Management', link: '/projects/se-system' }
@@ -38,8 +38,7 @@ module.exports = {
                     }
                 ]
             },
-            { text: 'Blog', link: 'https://billzhonggz.com/blog'},
-            { text: 'Github', link: 'https://github.com/billzhonggz' },
+            { text: 'Blog', link: 'https://billzhonggz.com/blog'}
         ],
         lastUpdated: 'Last Updated',
         ga: 'UA-115900587-1'
