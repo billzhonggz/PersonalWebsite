@@ -6,7 +6,7 @@ sidebarDepth: 2
 
 # About Me
 
-Some stuff: [**about this site**](/about/site.html), [**résumé**](/cv/), [**projects**](/projects/), [**timetable**](/teaching/timetable.html), [**netdisk**](https://cloud.billzhonggz.com/nextcloud)
+Some stuff: [**about this site**](/about/site.html), [**résumé**](/cv/), [**projects**](/projects/), [**timetable**](/teaching/timetable.html), [**portal**](https://portal.billzhonggz.com)
 
 Social links: [**blog**](https://billzhonggz.com/blog), [**LinkIn**](http://www.linkedin.com/in/billzhonggz/), [**GitHub**](https://github.com/billzhonggz), [**Facebook**](https://www.facebook.com/taizuzhong), [**Weibo**](https://weibo.com/huayou2908), [**Email**](mailto:billzhonggz@outlook.com)
 
