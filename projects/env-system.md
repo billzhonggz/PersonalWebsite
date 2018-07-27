@@ -5,8 +5,8 @@ sidebarDepth: 2
 ---
 
 # Environment Monitoring System
-<video style="width: 100%;" src="/env-system/fly.mp4" controls preload="none">
-You see this text because your browser does not support embedded videos. But you can still click [here](/env-system/fly.mp4) to download this video.
+<video style="width: 100%;" src="http://bill-main-1251735069.cosgz.myqcloud.com/fly.mp4" controls preload="none">
+You see this text because your browser does not support embedded videos. But you can still click [here](http://bill-main-1251735069.cosgz.myqcloud.com/fly.mp4) to download this video.
 </video>
 
 This is an environmental monitoring system with a 4-axis drone with sensors, and a web-based back-end server.
