@@ -32,10 +32,6 @@ Since this project has a topic of "software engineering", we began it from real 
 
 **We had to do customization base on those features.**
 
-### System Design
-
-Basically, we would 
-
 ## References
 
 [1] The Government of the Hong Kong Special Administrative Region, "Social Enterprises, introduction, what is social enterprises," 2008. [Online]. Available: <http://www.social-enterprises.gov.hk/en/introduction/whatis.html.> [Accessed 23 April 2017].
