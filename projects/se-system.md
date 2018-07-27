@@ -22,7 +22,7 @@ We confirmed out topic with the instructor in March 2017, and began a research o
 
 According to an article from the government of Hong Kong, “In general, a social enterprise is a business to achieve specific objectives such as providing services or product needed by the community [1].” Social enterprise was a live business my college. There were four social enterprises located at the campus when the project started. We choosed two of them to develop the system.
 
-### Investgating Demands
+### Investigating Demands
 
 Since this project has a topic of "software engineering", we began it from real demands. We did interviews with two shop managers, and found the following situations [2][3].
 
