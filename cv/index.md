@@ -49,7 +49,7 @@ Updated in July 2018.
 ## Publications
 
 * March 2016
-  * *Mining Association Rules from Educational Data to Improve Teaching and Learning Outcomes* at *FITAT 2016: The 9th International Conference on Frontiers of Information Technology, Applications and Tools*
+  * **Clement Leung, Chunyan Ji, Junru Zhong**, *Mining Association Rules from Educational Data to Improve Teaching and Learning Outcomes* at *FITAT 2016: The 9th International Conference on Frontiers of Information Technology, Applications and Tools*
 
 ## Projects
 
