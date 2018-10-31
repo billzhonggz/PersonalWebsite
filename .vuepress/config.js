@@ -41,6 +41,7 @@ module.exports = {
             { text: 'Blog', link: 'https://billzhonggz.com/blog'}
         ],
         lastUpdated: 'Last Updated',
-        ga: 'UA-115900587-1'
+        ga: 'UA-115900587-1',
+        plugins: ['@vuepress/google-analytics']
     }
 }
